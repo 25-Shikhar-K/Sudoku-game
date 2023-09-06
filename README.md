@@ -13,10 +13,6 @@ This repository contains a simple Sudoku game with a web-based interface. You ca
 - Check your solutions in real-time.
 - Clear and understandable codebase for learning and customization.
 
-## Preview
-
-![Sudoku Preview](sudoku-preview.gif)
-
 ## Getting Started
 
 To play the Sudoku game locally or contribute to its development, follow these instructions:
@@ -25,6 +21,22 @@ To play the Sudoku game locally or contribute to its development, follow these i
 
    ```bash
    git clone https://github.com/25-Shikhar-K/sudoku-game.git
+
+2. Open the project folder and explore the HTML, CSS, and JavaScript files.
+
+3. You can modify the `board` variable in `sudoku.js` to create different Sudoku puzzles.
+
+4. To run the game locally, simply open the `index.html` file in your web browser.
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve this Sudoku game or have suggestions for new features, please open an issue or create a pull request.
+
+## License
+
+This Sudoku game is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this software as long as you include the original license in your distribution.
+
+Enjoy playing Sudoku! If you have any questions or encounter any issues, feel free to open an issue in this repository. Happy Sudoku solving!
 
 
 
