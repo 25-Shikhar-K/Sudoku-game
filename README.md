@@ -32,10 +32,6 @@ To play the Sudoku game locally or contribute to its development, follow these i
 
 Contributions are welcome! If you'd like to improve this Sudoku game or have suggestions for new features, please open an issue or create a pull request.
 
-## License
-
-This Sudoku game is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this software as long as you include the original license in your distribution.
-
 Enjoy playing Sudoku! If you have any questions or encounter any issues, feel free to open an issue in this repository. Happy Sudoku solving!
 
 
