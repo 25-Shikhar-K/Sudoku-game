@@ -1,6 +1,6 @@
 # Sudoku Game
 
-![Sudoku](sudoku-screenshot.png)
+![Sudoku](sudoku.png)
 
 This repository contains a simple Sudoku game with a web-based interface. You can play Sudoku puzzles, make selections, and track your error count. The game is implemented using HTML, CSS, and JavaScript.
 
